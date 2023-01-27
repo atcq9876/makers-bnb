@@ -1,7 +1,7 @@
 # makers-bnb
 
 ## About this project
-Makersbnb is a web-app similar to Airbnb and was built using Ruby and Sinatra. It allows users to: sign up and log in; view, create and book property listings; manage booking requests; and send messages to hosts and customers. This was a group project completed during week 5 of the Makers bootcamp.
+Makersbnb is a web-app similar to Airbnb and was built using Ruby and Sinatra. It allows users to: sign up and log in; view, create and book property listings; manage booking requests; and send messages between hosts and customers. This was a group project completed during week 5 of the Makers bootcamp.
 
 ## Learnings from this project
 Through creating this app in a group environment, I improved my ability to:
