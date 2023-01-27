@@ -44,7 +44,7 @@ Through creating this app in a group environment, I improved my ability to:
 - Run rackup:
 ``rackup``
 - Open your web browser and go to http://localhost:9292/
-- You can then navigate the website. Please note that you will need to sign up and log in to gain full access the website.
+- You can then explore the website. Please note that you will need to sign up and log in to gain full access.
 
 ### How to run tests
 - Navigate to the project directory:
