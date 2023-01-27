@@ -20,7 +20,7 @@ Through creating this app in a group environment, I improved my ability to:
 ### How to install the code
 - Clone this repository to your local machine:
 ``git clone git@github.com:atcq9876/makers-bnb.git``
-- Navigate to the project directory:
+- Navigate into the project directory:
 ``cd makers-bnb``
 - Install the necessary dependencies:
 ``bundle install``
@@ -39,7 +39,7 @@ Through creating this app in a group environment, I improved my ability to:
 ``psql -h 127.0.0.1 makers_bnb_test < /spec/seeds.sql``
 
 ### How to run the code
-- Navigate to the project directory:
+- Navigate into the project directory:
 ``cd makers-bnb``
 - Run rackup:
 ``rackup``
@@ -47,7 +47,7 @@ Through creating this app in a group environment, I improved my ability to:
 - You can then explore the website. Please note that you will need to sign up and log in to gain full access.
 
 ### How to run tests
-- Navigate to the project directory:
+- Navigate into the project directory:
 ``cd makers-bnb``
 - Run the tests:
 ``rspec``
