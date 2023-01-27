@@ -1,7 +1,7 @@
-# makers-bnb
+MakersBnB
 
 ## About this project
-Makersbnb is a web-app similar to Airbnb and was built using Ruby, Sinatra and PostgreSQL. It allows users to: sign up and log in; view, create and book property listings; manage booking requests; and send messages between hosts and customers. In addition to these features, Twilio text notifications have been set up to let customers know if their booking request has been accepted/rejected, and notify hosts if a customer has requested to stay at their property (the code for this feature has been temporarily commented out due to limitations in Twilio's free plan). This was a group project completed during week 5 of the Makers bootcamp.
+MakersBnB is a web-app similar to Airbnb and was built using Ruby, Sinatra and PostgreSQL. It allows users to: sign up and log in; view, create and book property listings; manage booking requests; and send messages between hosts and customers. In addition to these features, Twilio text notifications have been set up to let customers know if their booking request has been accepted/rejected, and notify hosts if a customer has requested to stay at their property (the code for this feature has been temporarily commented out due to limitations in Twilio's free plan). This was a group project completed during week 5 of the Makers bootcamp.
 
 ## Learnings from this project
 Through creating this app in a group environment, I improved my ability to:
@@ -56,26 +56,26 @@ Through creating this app in a group environment, I improved my ability to:
 - Please note that three tests have been temporarily deactivated as every time they are run, Twilio will generate text messages for each of them. If they are activated, they will all pass (as can be seen in the screenshot at the bottom of this readme).
 
 ## Screenshots
-- Login page
+#### Login page
 ![screenshot of the login page](./screenshots/01-login-page.png)
-- Signup page
+#### Signup page
 ![screenshot of the signup page](./screenshots/02-signup-page.png)
-- Logged in home page
+#### Logged in home page
 ![screenshot of the home page after logging in](./screenshots/03-home-page-logged-in.png)
-- View all listings
+#### View all listings
 ![screenshot of view all listings page](./screenshots/04-view-all-listings.png)
-- View an individual listing
+#### View an individual listing
 ![screenshot of an individual listing](./screenshots/05-view-individual-listing.png)
-- Create a listing
+#### Create a listing
 ![screenshot of creating a listing](./screenshots/06-create-a-listing.png)
-- View my listings
+#### View my listings
 ![screenshot of my listings](./screenshots/07-my-listings.png)
-- Requests for me
+#### Requests for me
 ![screenshot of requests for me](./screenshots/08-requests-for-me.png)
-- Requests made by me
+#### Requests made by me
 ![screenshot of requests made by me](./screenshots/09-requests-made-by-me.png)
-- Messaging between a host and customer
+#### Messaging between a host and customer
 ![screenshot 1 of messaging between a host and a customer](./screenshots/10a-chat-between-host-and-customer.png)
 ![screenshot 2 of messaging between a host and a customer](./screenshots/10b-chat-between-host-and-customer.png)
-- All 46 tests passing
+#### All 46 tests passing
 ![screenshot of tests](./screenshots/tests.png)
