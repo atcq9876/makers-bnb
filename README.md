@@ -1,7 +1,7 @@
 # makers-bnb
 
 ## About this project
-Makersbnb is a web-app similar to Airbnb and was built using Ruby and Sinatra. It allows users to: sign up and log in; view, create and book property listings; manage booking requests; and send messages between hosts and customers. In addition to these features, hosts will receive a text notification via Twilio if a user requests to book their property. This was a group project completed during week 5 of the Makers bootcamp.
+Makersbnb is a web-app similar to Airbnb and was built using Ruby and Sinatra. It allows users to: sign up and log in; view, create and book property listings; manage booking requests; and send messages between hosts and customers. In addition to these features, Twilio text notifications have been set up to let customers know if their booking request has been accepted/rejected, and notify hosts if a customer has requested to stay at their property (the code for this feature has been temporarily commented out due to limitations in Twilio's free plan). This was a group project completed during week 5 of the Makers bootcamp.
 
 ## Learnings from this project
 Through creating this app in a group environment, I improved my ability to:
@@ -12,6 +12,7 @@ Through creating this app in a group environment, I improved my ability to:
 - Build fullstack web applications using Ruby and the Sinatra framework
 - Create SQL databases and implement routes that interact with and manipulate data in these databases
 - Implement user authentication using bcrypt
+- Set up text notifications with Twilio
 - Carry out unit and integrations tests with RSpec
 - Use Embedded Ruby (ERB) to dynamically edit HTML view pages
 - Style websites with CSS
