@@ -46,8 +46,33 @@ Through creating this app in a group environment, I improved my ability to:
 - Open your web browser and go to http://localhost:9292/
 - You can then explore the website. Please note that you will need to sign up and log in to gain full access.
 
-### How to run tests
+### How to run the tests
 - Navigate into the project directory:
 ``cd makers-bnb``
 - Run the tests:
 ``rspec``
+
+## Screenshots
+- All 46 tests passing
+![screenshot of tests](./screenshots/tests.png)
+- Login page
+![screenshot of the login page](./screenshots/1-login-page.png)
+- Signup page
+![screenshot of the signup page](./screenshots/2-signup-page.png)
+- Logged in home page
+![screenshot of the home page after logging in](./screenshots/3-home-page-logged-in.png)
+- View all listings
+![screenshot of view all listings page](./screenshots/4-view-all-listings.png)
+- View an individual listing
+![screenshot of an individual listing](./screenshots/5-view-individual-listing.png)
+- Create a listing
+![screenshot of creating a listing](./screenshots/6-create-a-listing.png)
+- View my listings
+![screenshot of my listings](./screenshots/7-my-listings.png)
+- Requests for me
+![screenshot of requests for me](./screenshots/8-requests-for-me.png)
+- Requests made by me
+![screenshot of requests made by me](./screenshots/9-requests-made-by-me.png)
+- Messaging between a host and customer
+![screenshot 1 of messaging between a host and a customer](./screenshots/10a-chat-between-host-and-customer.png)
+![screenshot 2 of messaging between a host and a customer](./screenshots/10b-chat-between-host-and-customer.png)
