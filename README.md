@@ -16,3 +16,38 @@ Through creating this app in a group environment, I improved my ability to:
 - Use Embedded Ruby (ERB) to dynamically edit HTML view pages
 - Style websites with CSS
 
+## Installation
+### How to install the code
+- Clone this repository to your local machine:
+``git clone git@github.com:atcq9876/makers-bnb.git``
+- Navigate to the project directory:
+``cd makers-bnb``
+- Install the necessary dependencies:
+``bundle install``
+
+### How to set up the databases
+- Install PostgreSQL database (if necessary)
+- Create a development database:
+``createdb makers_bnb_development``
+- Create a test database:
+``createdb makers_bnb_test``
+- Set up the tables in the development database:
+``psql -h 127.0.0.1 makers_bnb_development < tables.sql``
+- Set up the tables in the test database:
+``psql -h 127.0.0.1 makers_bnb_test < tables.sql``
+- Set up the seeds in the test database:
+``psql -h 127.0.0.1 makers_bnb_test < /spec/seeds.sql``
+
+### How to run the code
+- Navigate to the project directory:
+``cd makers-bnb``
+- Run rackup:
+``rackup``
+- Open your web browser and go to http://localhost:9292/
+- You can then navigate the website. Please note that you will need to sign up and log in to gain full access the website.
+
+### How to run tests
+- Navigate to the project directory:
+``cd makers-bnb``
+- Run the tests:
+``rspec``
