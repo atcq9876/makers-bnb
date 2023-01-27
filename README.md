@@ -5,14 +5,14 @@ Makersbnb is a web-app similar to Airbnb and was built using Ruby and Sinatra. I
 
 ## Learnings from this project
 Through creating this app in a group environment, I improved my ability to:
-- Work and communicate effectively as part of a team to build a web
-  application
+- Work and communicate effectively within a software development team
 - Break down projects into tasks and assign them to pairs
 - Use agile ceremonies to organise work into sprints and improve processes
-- Use the developer workflow to plan, implement and peer-review features
-- Build a fullstack web application using Ruby and the Sinatra framework
+- Use a developer workflow to plan, implement and peer-review features
+- Build fullstack web applications using Ruby and the Sinatra framework
 - Create SQL databases and implement routes that interact with and manipulate data in these databases
 - Implement user authentication using bcrypt
 - Carry out unit and integrations tests with RSpec
 - Use Embedded Ruby (ERB) to dynamically edit HTML view pages
 - Style websites with CSS
+
