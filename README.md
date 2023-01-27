@@ -19,8 +19,7 @@ Through creating this app in a group environment, I improved my ability to:
 
 ## Installation
 ### How to install the code
-- Clone this repository to your local machine:
-``git clone git@github.com:atcq9876/makers-bnb.git``
+- Clone this repository to your local machine
 - Navigate into the project directory:
 ``cd makers-bnb``
 - Install the necessary dependencies:
