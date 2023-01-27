@@ -53,8 +53,6 @@ Through creating this app in a group environment, I improved my ability to:
 ``rspec``
 
 ## Screenshots
-- All 46 tests passing
-![screenshot of tests](./screenshots/tests.png)
 - Login page
 ![screenshot of the login page](./screenshots/1-login-page.png)
 - Signup page
@@ -76,3 +74,5 @@ Through creating this app in a group environment, I improved my ability to:
 - Messaging between a host and customer
 ![screenshot 1 of messaging between a host and a customer](./screenshots/10a-chat-between-host-and-customer.png)
 ![screenshot 2 of messaging between a host and a customer](./screenshots/10b-chat-between-host-and-customer.png)
+- All 46 tests passing
+![screenshot of tests](./screenshots/tests.png)
