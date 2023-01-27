@@ -54,23 +54,23 @@ Through creating this app in a group environment, I improved my ability to:
 
 ## Screenshots
 - Login page
-![screenshot of the login page](./screenshots/1-login-page.png)
+![screenshot of the login page](./screenshots/01-login-page.png)
 - Signup page
-![screenshot of the signup page](./screenshots/2-signup-page.png)
+![screenshot of the signup page](./screenshots/02-signup-page.png)
 - Logged in home page
-![screenshot of the home page after logging in](./screenshots/3-home-page-logged-in.png)
+![screenshot of the home page after logging in](./screenshots/03-home-page-logged-in.png)
 - View all listings
-![screenshot of view all listings page](./screenshots/4-view-all-listings.png)
+![screenshot of view all listings page](./screenshots/04-view-all-listings.png)
 - View an individual listing
-![screenshot of an individual listing](./screenshots/5-view-individual-listing.png)
+![screenshot of an individual listing](./screenshots/05-view-individual-listing.png)
 - Create a listing
-![screenshot of creating a listing](./screenshots/6-create-a-listing.png)
+![screenshot of creating a listing](./screenshots/06-create-a-listing.png)
 - View my listings
-![screenshot of my listings](./screenshots/7-my-listings.png)
+![screenshot of my listings](./screenshots/07-my-listings.png)
 - Requests for me
-![screenshot of requests for me](./screenshots/8-requests-for-me.png)
+![screenshot of requests for me](./screenshots/08-requests-for-me.png)
 - Requests made by me
-![screenshot of requests made by me](./screenshots/9-requests-made-by-me.png)
+![screenshot of requests made by me](./screenshots/09-requests-made-by-me.png)
 - Messaging between a host and customer
 ![screenshot 1 of messaging between a host and a customer](./screenshots/10a-chat-between-host-and-customer.png)
 ![screenshot 2 of messaging between a host and a customer](./screenshots/10b-chat-between-host-and-customer.png)
