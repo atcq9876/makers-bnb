@@ -32,11 +32,13 @@ Through creating this app in a group environment, I improved my ability to:
 - Create a test database:
 ``createdb makers_bnb_test``
 - Set up the tables in the development database:
-``psql -h 127.0.0.1 makers_bnb_development < tables.sql``
+``psql -h 127.0.0.1 makersbnb < tables.sql``
+- Set up the seeds in the development database:
+``psql -h 127.0.0.1 makersbnb < ./spec/seeds.sql``
 - Set up the tables in the test database:
-``psql -h 127.0.0.1 makers_bnb_test < tables.sql``
+``psql -h 127.0.0.1 makersbnb_test < tables.sql``
 - Set up the seeds in the test database:
-``psql -h 127.0.0.1 makers_bnb_test < /spec/seeds.sql``
+``psql -h 127.0.0.1 makers_bnb_test < ./spec/seeds.sql``
 
 ### How to run the code
 - Navigate into the project directory:
